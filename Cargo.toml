@@ -1,0 +1,11 @@
+[package]
+name = "reqwest-ext"
+description = "Extensions for reqwest"
+version = "0.1.0"
+authors = ["Artem Vorotnikov <artem@vorotnikov.me>"]
+license = "MIT"
+edition = "2018"
+
+[dependencies]
+headers = "0.3"
+reqwest = "0.10"
